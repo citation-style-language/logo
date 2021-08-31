@@ -34,3 +34,8 @@ Logo Variants
 * Mark Only (black and white): [Download RGB](http://flachware.github.io/logo/assets/rgb/«»-bw.svg)
 * Mark Only (gray): [Download RGB](http://flachware.github.io/logo/assets/rgb/«»-gray.svg)
 * Mark Only (inverse): [Download RGB](http://flachware.github.io/logo/assets/rgb/«»-inverse.svg)
+
+Licensing
+---------
+
+All logo variants in this repository are released under the [Creative Commons Attribution-NoDerivatives 4.0 International license](https://creativecommons.org/licenses/by-nd/4.0/).
